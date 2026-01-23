@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "dhanush_kanth",
+      "profilePic": "https://i.pravatar.cc/150?img=12",
+      "postImage": "https://picsum.photos/id/1011/600/600",
+      "caption": "Evening vibes 🌅✨",
+      "likes": 1284,
+      "comments": [
+        { "id": 1, "user": "arun_kumar", "text": "Super bro 🔥" },
+        { "id": 2, "user": "meena_sri", "text": "Nice pic 😍" }
+      ],
+      "time": "2 hours ago"
+    },
+    {
+      "id": 2,
+      "username": "kaviya_03",
+      "profilePic": "https://i.pravatar.cc/150?img=47",
+      "postImage": "https://picsum.photos/id/1025/600/600",
+      "caption": "Weekend mood 🖤",
+      "likes": 962,
+      "comments": [
+        { "id": 1, "user": "suresh_official", "text": "Awesome 😎" },
+        { "id": 2, "user": "hari", "text": "🔥🔥🔥" }
+      ],
+      "time": "5 hours ago"
+    },
+    {
+      "id": 3,
+      "username": "madhu_clickz",
+      "profilePic": "https://i.pravatar.cc/150?img=9",
+      "postImage": "https://picsum.photos/id/1062/600/600",
+      "caption": "Captured this today 📸✨",
+      "likes": 1890,
+      "comments": [
+        { "id": 1, "user": "dhanush_kanth", "text": "Woah 🔥🔥" },
+        { "id": 2, "user": "kaviya_03", "text": "So clean 😍" }
+      ],
+      "time": "30 mins ago"
+    }
+  ]
+}
