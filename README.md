@@ -1,22 +1,36 @@
 # Instagram Clone
 
-This is my Instagram Clone project made using React (Vite).
-I’m building this step by step and updating this repo daily.
+This is my Instagram Clone project built using React.
+I’m building this project step by step and pushing updates daily.
 
-## Tech used
-- React + Vite
+---
+
+## Tech Used
+- React (Vite)
 - JavaScript
 - CSS
 - Bootstrap Icons
 - Bun
+- JSON Server (for dummy database)
 
-## Day 1 update
-✅ Project setup done  
-✅ Sidebar created (Instagram style)  
-✅ Added logo + menu items  
-✅ Basic page layout done (sidebar + feed + suggestions)
+---
 
-## How to run this project
+## Day 1
+- Project setup done
+- Sidebar layout completed (Instagram style)
+
+---
+
+## Day 2
+- Feed UI started
+- Stories section added
+- Posts component created
+- Suggestions section added
+- Added json database (`db.json`) for posts
+
+---
+
+## How to Run
+Install packages:
 ```bash
 bun install
-bun run dev
