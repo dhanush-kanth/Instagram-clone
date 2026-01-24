@@ -13,7 +13,13 @@ function Posts() {
     <div>
       {post.length > 0 ? 
         <div>
-          setpost.map
+          {post.map((post)=> (
+            <div key={post.id}>
+              {<img src={post.profilePic} alt="profile" className="profile-pic" />}
+              {<img src={post.postImage} alt="post" className="post-image" />}
+
+            </div>
+          ))}
         </div>
        : "Loading Page"}
     </div>
