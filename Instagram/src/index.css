@@ -16,3 +16,12 @@
 .stores{
   height: 60px;
 }
+
+.profile-pic{
+  height: 40px;
+}
+
+.post-image{
+  width: 300px;
+  height: auto;
+}

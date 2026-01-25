@@ -12,12 +12,19 @@ function Posts() {
   return (
     <div>
       {post.length > 0 ? 
-        <div>
+        <div className='mt-4 '>
           {post.map((post)=> (
             <div key={post.id}>
-              {<img src={post.profilePic} alt="profile" className="profile-pic" />}
-              {<img src={post.postImage} alt="post" className="post-image" />}
-
+              <div className='flex d-flex pt-2'>
+              <img className="profile-pic rounded-circle" src={post.profilePic} alt="profile" />
+              <h5>{post.username}</h5>
+              </div>
+              <img className="post-image " src={post.postImage} alt="post" />
+              <div className='flex d-flex'>
+                <h4><i class="bi bi-heart"></i></h4>
+                <h4><i class="bi bi-chat"></i></h4>
+                <h4><i class="bi bi-send"></i></h4>
+              </div>
             </div>
           ))}
         </div>
