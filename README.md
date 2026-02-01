@@ -22,7 +22,6 @@ I’m building this project step by step and pushing updates daily.
 ---
 
 ## Day 2
-Day 2
 
 - Feed UI completed
 - Stories section added
