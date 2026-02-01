@@ -15,10 +15,13 @@
 
 .stores{
   height: 60px;
+
 }
 
 .profile-pic{
   height: 40px;
+  margin-top: 5px;
+  margin-right: 5px;
 }
 
 .post-image{

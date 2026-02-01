@@ -5,7 +5,7 @@
       "username": "dhanush_kanth",
       "profilePic": "/dk-profile.png",
       "postImage": "/dk-post.png",
-      "caption": "Evening vibes 🌅✨",
+      "caption": "Echo Point",
       "likes": 1284,
       "comments": [
         { "id": 1, "user": "arun_kumar", "text": "Super bro 🔥" },
@@ -58,6 +58,19 @@
       "profilePic": "/ak-profile.png",
       "postImage": "/ak-post.png",
       "caption": "Weekend mood 🖤",
+      "likes": 962,
+      "comments": [
+        { "id": 1, "user": "suresh_official", "text": "Awesome 😎" },
+        { "id": 2, "user": "hari", "text": "🔥🔥🔥" }
+      ],
+      "time": "5 hours ago"
+    },
+    {
+      "id": 6,
+      "username": "gowtham_25_10_25",
+      "profilePic": "/go-profile.jpg",
+      "postImage": "/go-post.png",
+      "caption": "Evening vibes 🌅✨",
       "likes": 962,
       "comments": [
         { "id": 1, "user": "suresh_official", "text": "Awesome 😎" },
