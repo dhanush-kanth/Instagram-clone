@@ -22,11 +22,15 @@ I’m building this project step by step and pushing updates daily.
 ---
 
 ## Day 2
-- Feed UI started
+Day 2
+
+- Feed UI completed
 - Stories section added
 - Posts component created
 - Suggestions section added
-- Added json database (`db.json`) for posts
+- Connected JSON Server for post data
+- Fetched posts dynamically using API
+- Displayed profile pictures and post images
 
 ---
 
