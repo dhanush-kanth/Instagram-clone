@@ -13,21 +13,9 @@
       ],
       "time": "2 hours ago"
     },
+    
     {
       "id": 2,
-      "username": "Priyanka_Mohan",
-      "profilePic": "/pk-profile.png",
-      "postImage": "/pk-post.png",
-      "caption": "Weekend mood 🖤",
-      "likes": 962,
-      "comments": [
-        { "id": 1, "user": "suresh_official", "text": "Awesome 😎" },
-        { "id": 2, "user": "hari", "text": "🔥🔥🔥" }
-      ],
-      "time": "5 hours ago"
-    },
-    {
-      "id": 3,
       "username": "Joshpeh_Vijay",
       "profilePic": "/vj-profile.avif",
       "postImage": "/vj-post.png",
@@ -38,6 +26,19 @@
         { "id": 2, "user": "kaviya_03", "text": "So clean 😍" }
       ],
       "time": "30 mins ago"
+    },
+    {
+      "id": 3,
+      "username": "Priyanka_Mohan",
+      "profilePic": "/pk-profile.png",
+      "postImage": "/pk-post.png",
+      "caption": "Weekend mood 🖤",
+      "likes": 962,
+      "comments": [
+        { "id": 1, "user": "suresh_official", "text": "Awesome 😎" },
+        { "id": 2, "user": "hari", "text": "🔥🔥🔥" }
+      ],
+      "time": "5 hours ago"
     },
         {
       "id": 4,
@@ -77,6 +78,35 @@
         { "id": 2, "user": "hari", "text": "🔥🔥🔥" }
       ],
       "time": "5 hours ago"
+    }
+  ],
+
+  "profile":{
+    "id": 1,
+    "username": "dhanush_kanth",
+    "profilePic": "/dk-profile.png"
+  },
+  "Suggestions": [
+  {
+      "id": 2,
+      "username": "Joshpeh_Vijay",
+      "profilePic": "/vj-profile.avif"
+    },
+    {
+      "id": 5,
+      "username": "Appu_Kanth",
+      "profilePic": "/ak-profile.png",
+      "postImage": "/ak-post.png"
+    },
+    {
+      "id": 4,
+      "username": "Dulquer_Salmaan",
+      "profilePic": "/dq-profile.jpg"
+    },
+    {
+      "id": 3,
+      "username": "Dulquer_Salmaan",
+      "profilePic": "/dq-profile.jpg"
     }
   ]
 }
