@@ -28,3 +28,11 @@
   width: 300px;
   height: auto;
 }
+
+.suggestions .profile-pic{
+  margin-top: 0px !important;
+}
+
+.suggestions h5{
+  font-size: 16px;
+}
