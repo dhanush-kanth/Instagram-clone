@@ -35,7 +35,7 @@ function Suggestion() {
 
         <div className="d-flex ">
           <p>Suggestions for you</p>
-          <b className="ms-auto">see more</b>
+          <b className="ms-auto text-bold">See All</b>
         </div>
 
         {suggestions && suggestions.length > 0 ? (

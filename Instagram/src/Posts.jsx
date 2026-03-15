@@ -21,9 +21,9 @@ function Posts() {
               </div>
               <img className="post-image " src={post.postImage} alt="post" />
               <div className='flex d-flex'>
-                <h4><i class="bi bi-heart"></i></h4>
-                <h4><i class="bi bi-chat"></i></h4>
-                <h4><i class="bi bi-send"></i></h4>
+                <h4><i className="bi bi-heart"></i></h4>
+                <h4><i className="bi bi-chat"></i></h4>
+                <h4><i className="bi bi-send"></i></h4>
               </div>
               <div className='flex d-flex flex-column'>
               <h6>{post.likes} likes</h6>
