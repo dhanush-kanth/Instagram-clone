@@ -81,6 +81,21 @@
     }
   ],
 
+  "story": [
+    {
+      "id": 1,
+      "username": "dhanush_kanth",
+      "profilePic": "/dk-profile.png",
+      "storyImage": "/vj-profile.avif"
+    },
+    {
+      "id": 2,
+      "username": "Joshpeh_Vijay",
+      "profilePic": "/vj-profile.avif",
+      "storyImage": "/vj-profile.avif"
+    }
+  ],
+
   "profile":{
     "id": 1,
     "username": "dhanush_kanth",
@@ -114,7 +129,7 @@
       "id": 1,
       "username": "dhanush_kanth",
       "profilePic": "/dk-profile.png",
-      "storyImage": "src/assets/image copy.png"
+      "storyImage": "/image.png"
 
     },
   
@@ -122,31 +137,31 @@
       "id": 2,
       "username": "Joshpeh_Vijay",
       "profilePic": "/vj-profile.avif",
-      "image": "src/assets/image copy 2.png"
+      "storyImage": "/image copy 2.png"
     },
     {
       "id": 3,
       "username": "Priyanka_Mohan",
       "profilePic": "/pk-profile.png",
-      "image": "src/assets/image copy 3.png"
+      "storyImage": "/image copy 3.png"
     },
         {
       "id": 4,
       "username": "Dulquer_Salmaan",
       "profilePic": "/dq-profile.jpg",
-      "image": "src/assets/image copy 4.png"
+      "storyImage": "/image copy 4.png"
     },
     {
       "id": 5,
       "username": "Appu_Kanth",
       "profilePic": "/ak-profile.png",
-      "image": "src/assets/image copy 5.png"
+      "storyImage": "/image copy 5.png"
     },
     {
       "id": 6,
       "username": "gowtham_25_10_25",
       "profilePic": "/go-profile.jpg",
-      "image": "src/assets/image copy 6.png"
+      "storyImage": "/image copy.png"
     }
   ]
 }
