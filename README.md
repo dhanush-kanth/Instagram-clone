@@ -33,11 +33,16 @@ I’m building this project step by step and pushing updates daily.
 ---
 
 ## Day 3
-- Working on Stories UI design
-- Added story profile images
-- Implemented Instagram style gradient border
-- Fetching stories data from JSON Server
-- Started improving story layout
+- Stories UI design completed
+- Implemented Instagram-style story layout
+- Added gradient border for story profile images
+- Fetched stories dynamically from JSON Server
+- Created Story View page
+- Implemented story navigation (previous/next)
+- Integrated React Router for story viewing
+- Displayed full-screen story images
+- Added profile section with API data
+- Fixed multiple bugs (routing, API, layout)
 
 ---
 
